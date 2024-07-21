@@ -1,4 +1,4 @@
-# titok-liker
+# tiktok-liker
 
 Electron js With puppeteer js
 
@@ -14,7 +14,7 @@ npm install
 
 npm start
 
-If the window is open, enter the email and password that you have registered with Titok
+If the window is open, enter the email and password that you have registered with Tiktok
 
 after login tiktok wait until the puzzle comes out and fill it in manually
 
