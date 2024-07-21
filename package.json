@@ -1,0 +1,19 @@
+{
+  "name": "titok-liker",
+  "version": "1.0.0",
+  "description": "electron and puppeteer",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx electronmon ."
+  },
+  "author": "aziz",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^31.2.1",
+    "electronmon": "^2.0.3",
+    "puppeteer": "^22.13.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
