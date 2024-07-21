@@ -8,11 +8,11 @@ Clone repo
 
 ### Installing
 
-  npm install
+    npm install
 
 ## Running 
 
-  npm start
+    npm start
 
 If the window is open, enter the email and password that you have registered with Tiktok
 
