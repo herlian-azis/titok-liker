@@ -11,9 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "electron": "^31.2.1",
+    "electron-packager": "^17.1.2",
     "electronmon": "^2.0.3",
     "puppeteer": "^22.13.1",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "devDependencies": {
+    "@electron/packager": "^18.3.6"
   }
 }
